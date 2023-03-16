@@ -7,6 +7,7 @@ Projeto desenvolvido no curso de React.js da Rocketseat.
 
 
 ## 💻 Features do projeto
+- Validação de formulário
 - Responsividade
 
 ## ✔️ Técnicas e tecnologias utilizadas
