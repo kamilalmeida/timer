@@ -1,6 +1,6 @@
 # Timer
 
-Projeto desenvolvido no curso de React.js da Rocketseat
+Projeto desenvolvido no curso de React.js da Rocketseat. Esse projeto é inspirado em uma técnica chamada "Pomodoro" para gerenciar o tempo, onde a pessoa insere quanto tempo irá focar em uma tarefa sem distranções. Os objetivos da técnica Pomodoro estão ligados à diminuição da ansiedade e ao aumento do foco e concentração nas tarefas, evitando tempo desperdiçado e distrações. 
 
 ![image](https://user-images.githubusercontent.com/87664619/225634458-bb899e1e-27d3-499e-91cf-d3506e63b113.png)
 
